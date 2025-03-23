@@ -1,2 +1,2 @@
-chmod +x SYTOOL
+chmod +x SYTOOL/启动
 ./SYTOOL/启动
